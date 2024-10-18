@@ -242,6 +242,6 @@
     }
 .book{
     font-size: 30px
-    justify: center
+    justify-content: center;
     
 }
